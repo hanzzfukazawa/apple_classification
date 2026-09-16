@@ -1,0 +1,601 @@
+diameter,berat,tebal_kulit,kadar_gula,asal_daerah,warna,musim_panen,kualitas
+5.94,143.2,0.67,10.6,Malang,kuning kemerahan,hujan,Sedang
+7.23,246.59,0.8,12.18,Boyolali,merah,kemarau,Bagus
+6.67,236.43,0.8,12.27,Boyolali,merah,kemarau,Bagus
+6.58,168.04,0.78,11.02,Boyolali,kuning kemerahan,kemarau,Sedang
+5.91,141.48,0.7,11.23,Malang,kuning kemerahan,kemarau,Sedang
+5.96,163.63,0.7,10.36,Boyolali,kuning kemerahan,hujan,Sedang
+7.2,279.79,0.95,14.64,Boyolali,merah,kemarau,Bagus
+5.97,143.95,0.74,10.98,Garut,hijau,hujan,Sedang
+6.15,116.59,0.59,8.53,Garut,hijau,hujan,Jelek
+6.15,162.72,0.75,11.09,Malang,kuning kemerahan,hujan,Sedang
+6.6,183.05,0.87,14.63,Malang,merah,kemarau,Bagus
+7.03,245.92,0.9,14.39,Malang,merah,kemarau,Bagus
+5.56,128.71,0.63,9.7,Garut,hijau,hujan,Jelek
+6.5,231.26,0.94,14.81,Malang,merah,kemarau,Bagus
+6.12,176.54,0.79,12.01,Boyolali,merah,kemarau,Bagus
+5.71,118.89,0.55,9.45,Garut,hijau,hujan,Jelek
+6.55,165.78,0.7,11.45,Boyolali,kuning kemerahan,hujan,Sedang
+6.15,162.72,0.73,11.05,Malang,kuning kemerahan,kemarau,Sedang
+5.63,142.17,0.68,10.33,Garut,hijau,hujan,Jelek
+7.24,250.7,0.85,13.12,Malang,kuning kemerahan,kemarau,Bagus
+6.2,217.4,0.85,12.6,Malang,merah,kemarau,Bagus
+6.67,236.85,0.85,13.79,Malang,merah,kemarau,Bagus
+6.67,236.43,0.92,13.9,Boyolali,merah,kemarau,Bagus
+6.42,176.54,0.73,11.75,Boyolali,kuning kemerahan,kemarau,Sedang
+6.07,117.14,0.61,9.02,Garut,hijau,hujan,Jelek
+5.91,141.48,0.7,11.23,Malang,kuning kemerahan,hujan,Sedang
+6.72,255.43,0.86,14.52,Malang,merah,kemarau,Bagus
+6.07,178.53,0.72,11.48,Malang,kuning kemerahan,kemarau,Sedang
+5.81,135.53,0.72,12.18,Malang,kuning kemerahan,kemarau,Sedang
+7.21,208.48,0.87,13.9,Malang,merah,kemarau,Bagus
+6.07,178.53,0.73,11.33,Malang,kuning kemerahan,kemarau,Sedang
+6.15,148.68,0.67,10.63,Boyolali,kuning kemerahan,hujan,Sedang
+6.34,179.91,0.72,11.83,Malang,kuning kemerahan,kemarau,Sedang
+6.58,168.04,0.79,10.64,Boyolali,kuning kemerahan,hujan,Sedang
+5.93,126.96,0.62,9.75,Garut,hijau,hujan,Jelek
+6.16,116.32,0.6,9.54,Garut,hijau,hujan,Jelek
+5.56,128.71,0.61,9.45,Garut,hijau,hujan,Jelek
+6.5,231.26,0.92,14.64,Malang,merah,kemarau,Bagus
+7.63,222.04,0.85,13.25,Malang,merah,kemarau,Bagus
+6.12,176.54,0.76,12.18,Boyolali,merah,kemarau,Bagus
+6.67,250.7,0.88,14.64,Malang,merah,kemarau,Bagus
+5.52,104.94,0.55,8.83,Garut,hijau,hujan,Jelek
+6.42,176.54,0.73,11.53,Boyolali,kuning kemerahan,kemarau,Sedang
+6.07,178.53,0.7,11.5,Malang,kuning kemerahan,hujan,Sedang
+5.74,134.42,0.72,11.02,Malang,kuning kemerahan,kemarau,Sedang
+7.23,246.59,0.85,12.44,Boyolali,merah,kemarau,Bagus
+6.66,168.32,0.7,11.75,Malang,kuning kemerahan,kemarau,Sedang
+5.99,139.73,0.73,10.82,Boyolali,kuning kemerahan,kemarau,Sedang
+5.99,139.73,0.71,10.74,Boyolali,kuning kemerahan,hujan,Sedang
+6.15,162.72,0.7,10.98,Malang,kuning kemerahan,kemarau,Sedang
+5.99,101.44,0.61,8.68,Garut,hijau,hujan,Jelek
+6.2,168.96,0.71,10.74,Boyolali,kuning kemerahan,hujan,Sedang
+5.56,129.58,0.61,9.7,Garut,hijau,hujan,Jelek
+5.94,143.2,0.68,10.51,Malang,kuning kemerahan,hujan,Sedang
+5.42,130.41,0.64,9.45,Garut,hijau,hujan,Jelek
+6.07,178.53,0.72,11.45,Malang,kuning kemerahan,kemarau,Sedang
+5.76,126.95,0.61,9.51,Garut,hijau,hujan,Jelek
+5.34,136.19,0.53,9.22,Garut,hijau,hujan,Jelek
+5.93,124.96,0.61,9.45,Garut,hijau,hujan,Jelek
+6.58,168.04,0.77,10.98,Boyolali,kuning kemerahan,kemarau,Sedang
+5.99,139.73,0.72,10.6,Boyolali,kuning kemerahan,hujan,Sedang
+5.84,142.6,0.68,10.27,Garut,hijau,hujan,Jelek
+6.72,217.38,0.8,13.25,Malang,merah,kemarau,Bagus
+7.03,248.49,0.92,13.91,Malang,merah,kemarau,Bagus
+6.6,263.26,0.77,12.72,Malang,merah,kemarau,Bagus
+5.94,108.68,0.59,8.74,Garut,hijau,hujan,Jelek
+6.78,255.43,0.9,14.77,Boyolali,merah,kemarau,Bagus
+5.9,139.73,0.69,10.51,Malang,kuning kemerahan,hujan,Sedang
+5.99,132.84,0.7,10.45,Boyolali,kuning kemerahan,hujan,Sedang
+5.86,134.79,0.7,10.63,Malang,kuning kemerahan,kemarau,Sedang
+5.93,120.78,0.54,8.74,Garut,hijau,hujan,Jelek
+5.94,143.2,0.66,10.6,Malang,kuning kemerahan,hujan,Sedang
+6.16,144.93,0.7,11.09,Boyolali,kuning kemerahan,hujan,Sedang
+5.56,120.78,0.58,9.45,Garut,hijau,hujan,Jelek
+6.5,195.14,0.85,13.25,Malang,merah,kemarau,Bagus
+5.74,111.41,0.57,9.66,Garut,hijau,hujan,Jelek
+5.97,117.75,0.62,9.88,Garut,hijau,hujan,Jelek
+5.98,127.35,0.59,9.15,Garut,hijau,hujan,Jelek
+6.59,195.96,0.84,12.72,Boyolali,merah,kemarau,Bagus
+5.99,139.73,0.71,10.74,Boyolali,kuning kemerahan,hujan,Sedang
+6.7,249.03,0.93,14.77,Malang,merah,kemarau,Bagus
+6.67,236.43,0.87,13.06,Boyolali,merah,kemarau,Bagus
+6.74,250.78,0.88,14.15,Malang,merah,kemarau,Bagus
+5.93,120.78,0.52,8.42,Garut,hijau,hujan,Jelek
+7.23,283.69,0.94,13.91,Malang,merah,kemarau,Bagus
+7.63,222.04,0.8,12.72,Malang,merah,kemarau,Bagus
+6.2,207.97,0.86,13.52,Malang,merah,kemarau,Bagus
+6.15,162.72,0.74,11.16,Malang,kuning kemerahan,hujan,Sedang
+6.07,178.53,0.7,11.23,Malang,kuning kemerahan,hujan,Sedang
+5.74,128.71,0.61,9.58,Garut,hijau,hujan,Jelek
+6.52,192.35,0.84,13.06,Malang,merah,kemarau,Bagus
+6.09,121.73,0.6,9.25,Garut,hijau,hujan,Jelek
+5.86,151.72,0.72,10.05,Malang,kuning kemerahan,hujan,Sedang
+5.91,123.62,0.64,10.05,Garut,hijau,hujan,Jelek
+6.16,144.93,0.73,11.23,Boyolali,kuning kemerahan,kemarau,Sedang
+6.07,178.53,0.71,11.39,Malang,kuning kemerahan,hujan,Sedang
+7.24,250.7,0.88,13.43,Malang,kuning kemerahan,kemarau,Bagus
+6.07,117.14,0.6,9.04,Garut,hijau,hujan,Jelek
+5.63,142.17,0.67,10.27,Garut,hijau,hujan,Jelek
+6.6,183.05,0.85,14.33,Malang,merah,kemarau,Bagus
+7.03,248.49,0.88,14.0,Malang,merah,kemarau,Bagus
+7.2,255.51,0.85,13.12,Malang,merah,kemarau,Bagus
+7.45,263.8,0.85,13.29,Boyolali,merah,kemarau,Bagus
+6.38,154.21,0.7,10.88,Malang,kuning kemerahan,kemarau,Sedang
+6.15,116.59,0.64,10.19,Garut,hijau,hujan,Jelek
+5.56,121.73,0.57,9.19,Garut,hijau,hujan,Jelek
+6.42,176.54,0.76,11.83,Boyolali,kuning kemerahan,kemarau,Sedang
+6.66,168.32,0.74,11.53,Malang,kuning kemerahan,kemarau,Sedang
+6.04,115.86,0.62,10.38,Garut,hijau,hujan,Jelek
+6.72,254.51,0.88,14.64,Malang,merah,kemarau,Bagus
+7.2,228.69,0.92,13.68,Malang,merah,kemarau,Bagus
+6.58,195.96,0.8,12.55,Boyolali,merah,kemarau,Bagus
+6.55,165.78,0.76,11.12,Boyolali,kuning kemerahan,kemarau,Sedang
+5.95,123.68,0.6,9.51,Garut,hijau,hujan,Jelek
+6.07,171.21,0.75,11.39,Malang,kuning kemerahan,hujan,Sedang
+5.5,123.01,0.54,8.68,Garut,hijau,hujan,Jelek
+7.1,232.88,0.86,13.6,Malang,kuning kemerahan,kemarau,Bagus
+5.84,142.6,0.67,10.15,Garut,hijau,hujan,Jelek
+7.45,251.27,0.9,14.0,Boyolali,merah,kemarau,Bagus
+6.7,249.03,0.9,14.52,Malang,merah,kemarau,Bagus
+7.28,247.97,0.86,13.12,Malang,merah,kemarau,Bagus
+6.79,254.51,0.83,12.72,Boyolali,merah,kemarau,Bagus
+7.4,250.7,0.88,13.6,Malang,merah,kemarau,Bagus
+7.0,268.0,0.85,14.15,Malang,merah,kemarau,Bagus
+5.89,143.23,0.7,10.42,Boyolali,kuning kemerahan,hujan,Sedang
+6.58,168.04,0.78,11.02,Boyolali,kuning kemerahan,kemarau,Sedang
+6.59,195.96,0.85,12.87,Boyolali,merah,kemarau,Bagus
+5.9,139.73,0.71,10.74,Malang,kuning kemerahan,kemarau,Sedang
+6.16,144.93,0.73,11.09,Boyolali,kuning kemerahan,hujan,Sedang
+6.16,116.32,0.63,9.88,Garut,hijau,hujan,Jelek
+5.94,143.2,0.68,10.74,Malang,kuning kemerahan,hujan,Sedang
+6.55,165.78,0.74,11.16,Boyolali,kuning kemerahan,hujan,Sedang
+6.67,250.7,0.85,14.2,Malang,merah,kemarau,Bagus
+6.07,178.53,0.7,11.33,Malang,kuning kemerahan,kemarau,Sedang
+5.56,121.73,0.59,9.15,Garut,hijau,hujan,Jelek
+7.29,251.27,0.82,13.06,Malang,merah,kemarau,Bagus
+5.95,123.68,0.62,9.66,Garut,hijau,hujan,Jelek
+7.63,260.67,0.92,14.39,Malang,merah,kemarau,Bagus
+6.42,126.96,0.7,10.27,Garut,hijau,hujan,Sedang
+5.99,101.44,0.6,8.83,Garut,hijau,hujan,Jelek
+5.89,143.23,0.73,11.45,Boyolali,kuning kemerahan,kemarau,Sedang
+7.1,232.88,0.85,13.25,Malang,merah,kemarau,Bagus
+7.06,231.25,0.92,14.67,Malang,merah,kemarau,Bagus
+5.84,142.33,0.73,10.51,Boyolali,kuning kemerahan,hujan,Sedang
+6.72,255.43,0.89,14.15,Malang,merah,kemarau,Bagus
+5.5,123.01,0.55,8.87,Garut,hijau,hujan,Jelek
+6.16,116.32,0.63,9.88,Garut,hijau,hujan,Jelek
+5.99,139.73,0.7,10.74,Boyolali,kuning kemerahan,hujan,Sedang
+6.42,176.54,0.73,11.53,Boyolali,kuning kemerahan,kemarau,Sedang
+7.12,233.58,0.93,14.15,Malang,merah,kemarau,Bagus
+6.15,162.72,0.75,11.02,Malang,kuning kemerahan,kemarau,Sedang
+6.38,154.21,0.7,11.16,Malang,kuning kemerahan,hujan,Sedang
+6.07,178.53,0.74,11.48,Malang,kuning kemerahan,hujan,Sedang
+5.99,101.44,0.64,8.74,Garut,hijau,hujan,Jelek
+7.2,279.79,0.9,14.25,Boyolali,merah,kemarau,Bagus
+5.74,128.71,0.6,9.54,Garut,hijau,hujan,Jelek
+6.56,220.64,0.9,13.9,Malang,merah,kemarau,Bagus
+6.67,236.43,0.8,12.27,Boyolali,merah,kemarau,Bagus
+5.94,143.2,0.69,11.03,Malang,kuning kemerahan,kemarau,Sedang
+6.44,171.74,0.74,11.24,Malang,kuning kemerahan,kemarau,Sedang
+6.6,236.43,0.93,14.15,Malang,merah,kemarau,Bagus
+6.79,254.51,0.8,12.87,Boyolali,merah,kemarau,Bagus
+6.44,180.3,0.79,11.53,Boyolali,kuning kemerahan,kemarau,Sedang
+5.95,142.48,0.73,11.12,Malang,kuning kemerahan,kemarau,Sedang
+7.51,263.8,0.92,14.67,Malang,merah,kemarau,Bagus
+7.45,251.27,0.94,14.33,Boyolali,merah,kemarau,Bagus
+6.44,171.74,0.77,11.33,Malang,kuning kemerahan,kemarau,Sedang
+6.47,159.2,0.72,10.88,Garut,kuning kemerahan,hujan,Sedang
+5.7,118.89,0.54,8.55,Garut,hijau,hujan,Jelek
+6.15,148.68,0.68,10.63,Boyolali,kuning kemerahan,hujan,Sedang
+7.03,248.49,0.92,14.07,Malang,merah,kemarau,Bagus
+5.96,163.63,0.7,10.04,Boyolali,kuning kemerahan,hujan,Sedang
+6.67,208.64,0.77,13.25,Malang,merah,kemarau,Bagus
+7.63,222.04,0.83,12.98,Malang,merah,kemarau,Bagus
+6.6,236.43,0.97,14.39,Malang,merah,kemarau,Bagus
+6.14,142.17,0.7,11.09,Boyolali,kuning kemerahan,hujan,Sedang
+5.95,123.68,0.63,9.7,Garut,hijau,hujan,Jelek
+5.91,123.62,0.6,9.39,Garut,hijau,hujan,Jelek
+6.07,178.53,0.71,11.39,Malang,kuning kemerahan,hujan,Sedang
+5.56,128.71,0.58,9.42,Garut,hijau,hujan,Jelek
+6.2,168.96,0.7,10.6,Boyolali,kuning kemerahan,hujan,Sedang
+6.2,217.4,0.88,13.06,Malang,merah,kemarau,Bagus
+5.88,137.94,0.72,10.42,Boyolali,kuning kemerahan,hujan,Sedang
+5.9,139.73,0.67,10.63,Malang,kuning kemerahan,kemarau,Sedang
+6.72,254.51,0.86,13.78,Malang,merah,kemarau,Bagus
+6.16,144.93,0.73,11.09,Boyolali,kuning kemerahan,hujan,Sedang
+6.12,176.54,0.77,12.18,Boyolali,merah,kemarau,Bagus
+6.58,195.96,0.8,12.55,Boyolali,merah,kemarau,Bagus
+6.07,117.14,0.59,8.96,Garut,hijau,hujan,Jelek
+7.1,235.15,0.9,14.15,Boyolali,merah,kemarau,Bagus
+6.07,171.21,0.73,11.24,Malang,kuning kemerahan,hujan,Sedang
+7.24,250.7,0.9,13.6,Malang,kuning kemerahan,kemarau,Bagus
+6.42,176.54,0.72,11.66,Boyolali,kuning kemerahan,kemarau,Sedang
+7.0,268.0,0.86,14.33,Malang,merah,kemarau,Bagus
+6.67,236.85,0.85,13.79,Malang,merah,kemarau,Bagus
+5.56,120.78,0.59,9.54,Garut,hijau,hujan,Jelek
+6.38,154.21,0.69,11.23,Malang,kuning kemerahan,kemarau,Sedang
+5.91,141.48,0.7,11.16,Malang,kuning kemerahan,hujan,Sedang
+7.2,255.51,0.89,13.7,Malang,merah,kemarau,Bagus
+6.7,137.66,0.7,10.74,Garut,kuning kemerahan,hujan,Sedang
+6.42,176.54,0.74,11.75,Boyolali,kuning kemerahan,kemarau,Sedang
+5.81,135.53,0.7,12.08,Malang,kuning kemerahan,kemarau,Sedang
+6.67,208.64,0.76,12.98,Malang,merah,kemarau,Bagus
+6.07,178.53,0.7,11.53,Malang,kuning kemerahan,kemarau,Sedang
+6.78,255.43,0.93,14.77,Boyolali,merah,kemarau,Bagus
+5.92,104.99,0.56,8.75,Garut,hijau,hujan,Jelek
+6.6,236.43,0.95,14.33,Malang,merah,kemarau,Bagus
+5.74,128.71,0.6,9.54,Garut,hijau,hujan,Jelek
+6.59,195.96,0.82,12.6,Boyolali,merah,kemarau,Bagus
+5.4,87.6,0.5,8.3,Garut,hijau,hujan,Jelek
+6.34,171.74,0.7,11.45,Malang,kuning kemerahan,hujan,Sedang
+6.58,168.04,0.78,11.02,Boyolali,kuning kemerahan,kemarau,Sedang
+7.23,283.69,0.96,14.15,Malang,merah,kemarau,Bagus
+7.63,260.67,0.95,14.67,Malang,merah,kemarau,Bagus
+5.38,103.58,0.52,8.42,Garut,hijau,hujan,Jelek
+6.7,257.06,0.9,14.63,Malang,merah,kemarau,Bagus
+5.81,135.53,0.7,12.01,Malang,kuning kemerahan,kemarau,Sedang
+6.07,117.14,0.6,9.15,Garut,hijau,hujan,Jelek
+7.24,250.7,0.89,13.43,Malang,kuning kemerahan,kemarau,Bagus
+5.81,118.89,0.58,9.7,Garut,hijau,hujan,Jelek
+6.63,161.42,0.78,11.5,Boyolali,kuning kemerahan,hujan,Sedang
+5.94,108.68,0.57,8.74,Garut,hijau,hujan,Jelek
+6.16,144.93,0.7,11.05,Boyolali,kuning kemerahan,hujan,Sedang
+5.99,132.84,0.72,10.6,Boyolali,kuning kemerahan,hujan,Sedang
+6.52,192.35,0.85,13.25,Malang,merah,kemarau,Bagus
+5.52,70.9,0.53,8.79,Garut,hijau,hujan,Jelek
+6.59,195.14,0.85,13.25,Malang,merah,kemarau,Bagus
+6.67,120.78,0.68,10.82,Boyolali,hijau,hujan,Sedang
+5.56,128.71,0.62,9.75,Garut,hijau,hujan,Jelek
+6.38,154.21,0.74,11.7,Malang,kuning kemerahan,kemarau,Sedang
+5.97,143.95,0.71,10.45,Garut,hijau,hujan,Sedang
+7.2,255.51,0.87,13.6,Malang,merah,kemarau,Bagus
+6.58,195.96,0.83,12.6,Boyolali,merah,kemarau,Bagus
+6.2,168.96,0.74,10.88,Boyolali,kuning kemerahan,hujan,Sedang
+5.92,104.99,0.59,9.08,Garut,hijau,hujan,Jelek
+6.87,249.25,0.85,13.79,Malang,merah,kemarau,Bagus
+5.63,111.41,0.57,9.62,Garut,hijau,hujan,Jelek
+7.29,251.27,0.8,12.87,Malang,merah,kemarau,Bagus
+6.66,168.32,0.72,11.58,Malang,kuning kemerahan,kemarau,Sedang
+7.03,248.49,0.92,14.0,Malang,merah,kemarau,Bagus
+6.12,176.54,0.76,12.18,Boyolali,merah,kemarau,Bagus
+5.95,142.48,0.7,10.98,Malang,kuning kemerahan,kemarau,Sedang
+6.38,154.91,0.65,10.82,Malang,kuning kemerahan,hujan,Sedang
+7.0,222.04,0.88,13.6,Malang,merah,kemarau,Bagus
+5.89,143.23,0.7,10.51,Boyolali,kuning kemerahan,kemarau,Sedang
+7.08,235.63,0.89,14.15,Malang,merah,kemarau,Bagus
+6.42,176.54,0.74,11.75,Boyolali,kuning kemerahan,kemarau,Sedang
+6.2,166.7,0.7,11.16,Malang,kuning kemerahan,kemarau,Sedang
+6.12,141.48,0.7,10.74,Boyolali,kuning kemerahan,hujan,Sedang
+5.86,134.79,0.7,10.82,Malang,kuning kemerahan,kemarau,Sedang
+5.14,124.93,0.53,8.96,Garut,hijau,hujan,Jelek
+7.21,208.48,0.82,13.06,Malang,merah,kemarau,Bagus
+6.2,159.2,0.69,11.23,Boyolali,kuning kemerahan,hujan,Sedang
+5.84,142.6,0.65,10.05,Garut,hijau,hujan,Jelek
+6.15,116.59,0.59,8.53,Garut,hijau,hujan,Jelek
+7.41,273.66,0.92,14.28,Malang,merah,kemarau,Bagus
+6.15,162.72,0.7,11.02,Malang,kuning kemerahan,kemarau,Sedang
+6.67,236.85,0.9,13.82,Malang,merah,kemarau,Bagus
+7.63,260.67,0.9,14.07,Malang,merah,kemarau,Bagus
+5.52,104.94,0.56,9.19,Garut,hijau,hujan,Jelek
+6.78,241.67,0.9,14.28,Malang,merah,kemarau,Bagus
+7.2,228.69,0.95,14.07,Malang,merah,kemarau,Bagus
+7.4,250.7,0.9,13.9,Malang,merah,kemarau,Bagus
+6.7,137.66,0.66,11.33,Garut,kuning kemerahan,hujan,Sedang
+5.74,86.27,0.54,9.11,Garut,hijau,hujan,Jelek
+6.34,179.91,0.72,11.83,Malang,kuning kemerahan,kemarau,Sedang
+6.07,178.53,0.7,11.16,Malang,kuning kemerahan,hujan,Sedang
+5.99,101.44,0.6,8.83,Garut,hijau,hujan,Jelek
+5.99,139.73,0.73,11.02,Boyolali,kuning kemerahan,kemarau,Sedang
+7.24,250.7,0.85,13.52,Malang,kuning kemerahan,kemarau,Bagus
+5.93,124.96,0.59,9.45,Garut,hijau,hujan,Jelek
+6.19,258.85,0.76,12.01,Malang,merah,kemarau,Bagus
+5.37,133.58,0.56,8.69,Garut,hijau,hujan,Jelek
+5.56,129.58,0.59,9.66,Garut,hijau,hujan,Jelek
+5.96,128.71,0.54,8.51,Garut,hijau,hujan,Jelek
+6.42,176.54,0.73,11.75,Boyolali,kuning kemerahan,kemarau,Sedang
+7.23,246.59,0.81,12.01,Boyolali,merah,kemarau,Bagus
+6.67,236.43,0.8,12.27,Boyolali,merah,kemarau,Bagus
+6.07,178.53,0.72,11.23,Malang,kuning kemerahan,hujan,Sedang
+6.67,250.7,0.87,14.5,Malang,merah,kemarau,Bagus
+5.81,118.89,0.55,9.48,Garut,hijau,hujan,Jelek
+5.93,126.96,0.62,10.19,Garut,hijau,hujan,Jelek
+6.09,179.62,0.8,14.07,Boyolali,merah,kemarau,Bagus
+6.78,255.43,0.87,14.13,Malang,merah,kemarau,Bagus
+5.93,120.78,0.53,8.93,Garut,hijau,hujan,Jelek
+6.38,154.21,0.7,11.23,Malang,kuning kemerahan,kemarau,Sedang
+5.86,134.79,0.72,11.05,Malang,kuning kemerahan,kemarau,Sedang
+6.6,236.43,0.93,14.15,Malang,merah,kemarau,Bagus
+7.03,245.92,0.93,14.63,Malang,merah,kemarau,Bagus
+6.44,171.74,0.77,11.33,Malang,kuning kemerahan,kemarau,Sedang
+5.63,143.68,0.66,9.58,Garut,hijau,hujan,Jelek
+6.52,192.35,0.85,13.25,Malang,merah,kemarau,Bagus
+7.23,283.69,0.92,14.07,Malang,merah,kemarau,Bagus
+5.95,143.2,0.66,10.6,Malang,kuning kemerahan,hujan,Sedang
+5.99,139.73,0.7,10.67,Boyolali,kuning kemerahan,hujan,Sedang
+5.92,116.89,0.55,9.42,Garut,hijau,hujan,Jelek
+6.12,176.54,0.76,12.18,Boyolali,merah,kemarau,Bagus
+5.56,120.78,0.59,9.54,Garut,hijau,hujan,Jelek
+6.59,195.96,0.84,12.72,Boyolali,merah,kemarau,Bagus
+6.67,208.64,0.76,13.12,Malang,merah,kemarau,Bagus
+6.07,178.53,0.7,11.23,Malang,kuning kemerahan,hujan,Sedang
+5.74,106.33,0.53,9.75,Garut,hijau,hujan,Jelek
+6.78,255.43,0.92,14.63,Boyolali,merah,kemarau,Bagus
+7.51,263.8,0.9,14.52,Malang,merah,kemarau,Bagus
+6.41,180.3,0.79,11.66,Boyolali,kuning kemerahan,kemarau,Sedang
+5.97,125.75,0.6,9.22,Garut,hijau,hujan,Jelek
+6.2,168.96,0.71,10.74,Boyolali,kuning kemerahan,hujan,Sedang
+5.43,115.8,0.53,8.74,Garut,hijau,hujan,Jelek
+5.91,141.48,0.7,11.23,Malang,kuning kemerahan,hujan,Sedang
+6.19,258.85,0.8,12.01,Malang,merah,kemarau,Bagus
+7.2,255.51,0.85,13.12,Malang,merah,kemarau,Bagus
+6.12,141.48,0.71,10.88,Boyolali,kuning kemerahan,hujan,Sedang
+7.24,250.7,0.89,13.43,Malang,kuning kemerahan,kemarau,Bagus
+6.38,172.96,0.73,11.53,Malang,kuning kemerahan,kemarau,Sedang
+5.52,120.78,0.56,9.15,Garut,hijau,hujan,Jelek
+7.1,232.88,0.87,13.7,Malang,kuning kemerahan,kemarau,Bagus
+7.02,233.58,0.9,13.17,Boyolali,merah,kemarau,Bagus
+6.56,220.64,0.85,13.6,Malang,merah,kemarau,Bagus
+6.2,166.7,0.71,11.02,Malang,kuning kemerahan,hujan,Sedang
+6.63,161.42,0.78,11.38,Boyolali,kuning kemerahan,hujan,Sedang
+6.07,178.53,0.7,11.39,Malang,kuning kemerahan,kemarau,Sedang
+6.42,176.54,0.76,11.83,Boyolali,kuning kemerahan,kemarau,Sedang
+7.2,279.79,0.88,14.07,Boyolali,merah,kemarau,Bagus
+6.07,171.21,0.73,11.48,Malang,kuning kemerahan,hujan,Sedang
+5.89,143.23,0.73,11.48,Boyolali,kuning kemerahan,kemarau,Sedang
+7.0,222.04,0.87,13.68,Malang,merah,kemarau,Bagus
+5.91,123.62,0.63,10.05,Garut,hijau,hujan,Jelek
+5.92,104.99,0.59,9.04,Garut,hijau,hujan,Jelek
+5.52,104.94,0.58,8.87,Garut,hijau,hujan,Jelek
+6.12,141.48,0.73,11.23,Boyolali,kuning kemerahan,hujan,Sedang
+6.7,257.06,0.93,14.93,Malang,merah,kemarau,Bagus
+5.96,128.71,0.58,8.87,Garut,hijau,hujan,Jelek
+7.63,260.67,0.89,14.39,Malang,merah,kemarau,Bagus
+6.58,168.04,0.77,10.98,Boyolali,kuning kemerahan,kemarau,Sedang
+6.07,178.53,0.7,11.39,Malang,kuning kemerahan,hujan,Sedang
+7.83,275.43,0.85,14.33,Malang,merah,kemarau,Bagus
+6.2,166.7,0.73,11.97,Malang,kuning kemerahan,kemarau,Sedang
+7.03,248.49,0.92,14.07,Malang,merah,kemarau,Bagus
+5.56,121.73,0.57,9.19,Garut,hijau,hujan,Jelek
+6.14,142.17,0.7,11.23,Boyolali,kuning kemerahan,kemarau,Sedang
+6.38,172.96,0.7,11.12,Malang,kuning kemerahan,kemarau,Sedang
+5.5,123.01,0.55,8.87,Garut,hijau,hujan,Jelek
+6.7,249.03,0.92,14.63,Malang,merah,kemarau,Bagus
+6.2,168.96,0.74,10.13,Boyolali,kuning kemerahan,hujan,Sedang
+6.6,263.26,0.77,12.76,Malang,merah,kemarau,Bagus
+5.74,106.33,0.57,9.62,Garut,hijau,hujan,Jelek
+7.2,255.51,0.89,13.7,Malang,merah,kemarau,Bagus
+7.45,263.8,0.87,13.29,Boyolali,merah,kemarau,Bagus
+6.5,195.14,0.82,12.87,Malang,merah,kemarau,Bagus
+5.94,143.2,0.67,10.51,Malang,kuning kemerahan,hujan,Sedang
+5.84,142.33,0.77,11.23,Boyolali,kuning kemerahan,hujan,Sedang
+6.67,236.85,0.85,13.68,Malang,merah,kemarau,Bagus
+5.97,125.75,0.6,9.25,Garut,hijau,hujan,Jelek
+6.74,250.78,0.91,14.17,Malang,merah,kemarau,Bagus
+5.93,124.96,0.61,9.45,Garut,hijau,hujan,Jelek
+5.38,103.58,0.53,8.75,Garut,hijau,hujan,Jelek
+6.12,176.54,0.77,12.18,Boyolali,merah,kemarau,Bagus
+6.34,179.91,0.7,12.08,Malang,kuning kemerahan,kemarau,Sedang
+5.56,120.78,0.59,9.54,Garut,hijau,hujan,Jelek
+6.58,168.04,0.79,10.63,Boyolali,kuning kemerahan,hujan,Sedang
+5.98,127.35,0.55,9.15,Garut,hijau,hujan,Jelek
+7.1,228.69,0.82,12.79,Boyolali,merah,kemarau,Bagus
+6.15,162.72,0.74,11.02,Malang,kuning kemerahan,hujan,Sedang
+6.44,142.17,0.7,10.6,Malang,kuning kemerahan,hujan,Sedang
+6.07,178.53,0.7,11.5,Malang,kuning kemerahan,hujan,Sedang
+6.78,255.43,0.9,14.77,Boyolali,merah,kemarau,Bagus
+5.89,143.23,0.73,11.45,Boyolali,kuning kemerahan,kemarau,Sedang
+6.23,171.74,0.7,11.97,Malang,kuning kemerahan,hujan,Sedang
+7.0,268.0,0.86,14.39,Malang,merah,kemarau,Bagus
+7.45,251.27,0.93,14.5,Boyolali,merah,kemarau,Bagus
+5.92,104.99,0.59,8.79,Garut,hijau,hujan,Jelek
+5.96,163.63,0.7,10.15,Boyolali,kuning kemerahan,hujan,Sedang
+7.07,249.25,0.9,14.67,Malang,merah,kemarau,Bagus
+6.09,179.62,0.8,14.07,Boyolali,merah,kemarau,Bagus
+5.99,139.73,0.71,10.74,Boyolali,kuning kemerahan,hujan,Sedang
+6.06,146.47,0.74,11.09,Boyolali,kuning kemerahan,hujan,Sedang
+5.37,133.58,0.58,9.08,Garut,hijau,hujan,Jelek
+6.2,166.7,0.7,11.02,Malang,kuning kemerahan,kemarau,Sedang
+5.91,123.62,0.6,9.54,Garut,hijau,hujan,Jelek
+6.09,121.73,0.6,9.22,Garut,hijau,hujan,Jelek
+6.72,254.51,0.89,14.15,Malang,merah,kemarau,Bagus
+6.16,116.32,0.6,9.54,Garut,hijau,hujan,Jelek
+6.5,231.26,0.93,13.71,Malang,merah,kemarau,Bagus
+7.63,222.04,0.8,13.25,Malang,merah,kemarau,Bagus
+5.98,127.35,0.55,9.15,Garut,hijau,hujan,Jelek
+6.12,141.48,0.7,10.98,Boyolali,kuning kemerahan,hujan,Sedang
+7.24,250.7,0.85,13.7,Malang,kuning kemerahan,kemarau,Bagus
+7.54,233.01,0.88,13.6,Malang,kuning kemerahan,kemarau,Bagus
+6.07,178.53,0.7,11.23,Malang,kuning kemerahan,kemarau,Sedang
+6.2,159.2,0.7,11.09,Boyolali,kuning kemerahan,hujan,Sedang
+5.74,134.42,0.72,11.02,Malang,kuning kemerahan,kemarau,Sedang
+6.67,250.7,0.88,14.64,Malang,merah,kemarau,Bagus
+5.71,118.89,0.55,9.48,Garut,hijau,hujan,Jelek
+6.58,168.04,0.8,11.24,Boyolali,kuning kemerahan,kemarau,Sedang
+6.44,171.74,0.77,11.33,Malang,kuning kemerahan,kemarau,Sedang
+6.7,249.03,0.89,14.33,Malang,merah,kemarau,Bagus
+5.93,124.96,0.62,9.75,Garut,hijau,hujan,Jelek
+5.97,143.95,0.74,10.98,Garut,hijau,hujan,Sedang
+5.9,139.73,0.69,10.51,Malang,kuning kemerahan,hujan,Sedang
+6.52,192.35,0.85,13.25,Malang,merah,kemarau,Bagus
+6.38,154.21,0.65,10.88,Malang,kuning kemerahan,hujan,Sedang
+6.55,248.83,0.83,12.87,Malang,merah,kemarau,Bagus
+7.03,248.49,0.92,13.91,Malang,merah,kemarau,Bagus
+6.66,168.32,0.71,11.45,Malang,kuning kemerahan,kemarau,Sedang
+5.74,111.41,0.59,9.45,Garut,hijau,hujan,Jelek
+5.73,124.93,0.6,9.62,Garut,hijau,hujan,Jelek
+6.15,148.68,0.7,10.82,Boyolali,kuning kemerahan,hujan,Sedang
+6.04,115.86,0.6,9.15,Garut,hijau,hujan,Jelek
+6.14,142.17,0.74,11.24,Boyolali,kuning kemerahan,kemarau,Sedang
+5.99,139.73,0.7,10.74,Boyolali,kuning kemerahan,hujan,Sedang
+6.07,171.21,0.74,11.23,Malang,kuning kemerahan,hujan,Sedang
+7.23,283.69,0.92,14.0,Malang,merah,kemarau,Bagus
+6.02,129.56,0.55,8.51,Garut,hijau,hujan,Jelek
+7.16,211.75,0.81,12.79,Malang,merah,kemarau,Bagus
+5.73,124.93,0.61,9.66,Garut,hijau,hujan,Jelek
+6.5,231.26,0.94,14.9,Malang,merah,kemarau,Bagus
+5.52,120.78,0.54,8.96,Garut,hijau,hujan,Jelek
+6.67,236.43,0.8,12.27,Boyolali,merah,kemarau,Bagus
+7.2,279.79,0.86,13.79,Boyolali,merah,kemarau,Bagus
+7.1,235.15,0.9,14.07,Boyolali,merah,kemarau,Bagus
+5.7,118.89,0.58,8.87,Garut,hijau,hujan,Jelek
+7.28,247.97,0.83,12.98,Malang,merah,kemarau,Bagus
+6.07,171.21,0.73,11.24,Malang,kuning kemerahan,hujan,Sedang
+6.44,180.3,0.8,11.7,Boyolali,kuning kemerahan,kemarau,Sedang
+6.6,263.26,0.77,12.6,Malang,merah,kemarau,Bagus
+7.41,273.66,0.91,14.12,Malang,merah,kemarau,Bagus
+5.56,128.71,0.58,9.42,Garut,hijau,hujan,Jelek
+6.22,171.74,0.7,12.18,Malang,kuning kemerahan,kemarau,Sedang
+5.94,143.2,0.68,10.51,Malang,kuning kemerahan,hujan,Sedang
+6.58,195.96,0.84,12.98,Boyolali,merah,kemarau,Bagus
+5.89,143.23,0.7,10.42,Boyolali,kuning kemerahan,hujan,Sedang
+6.07,178.53,0.73,11.41,Malang,kuning kemerahan,kemarau,Sedang
+6.87,242.06,0.89,14.64,Boyolali,merah,kemarau,Bagus
+5.96,128.71,0.55,8.68,Garut,hijau,hujan,Jelek
+6.38,154.21,0.7,11.16,Malang,kuning kemerahan,hujan,Sedang
+7.03,248.49,0.92,14.0,Malang,merah,kemarau,Bagus
+5.52,104.94,0.55,8.87,Garut,hijau,hujan,Jelek
+6.8,111.44,0.78,11.38,Garut,kuning kemerahan,kemarau,Sedang
+6.06,146.47,0.7,10.82,Boyolali,kuning kemerahan,hujan,Sedang
+5.92,104.99,0.57,9.15,Garut,hijau,hujan,Jelek
+7.2,228.69,0.94,13.79,Malang,merah,kemarau,Bagus
+5.5,123.01,0.55,8.87,Garut,hijau,hujan,Jelek
+6.67,236.43,0.8,12.27,Boyolali,merah,kemarau,Bagus
+6.34,179.91,0.74,11.96,Malang,kuning kemerahan,kemarau,Sedang
+6.12,176.54,0.79,12.01,Boyolali,merah,kemarau,Bagus
+6.75,257.06,0.95,14.64,Malang,merah,kemarau,Bagus
+6.09,179.62,0.8,14.0,Boyolali,merah,kemarau,Bagus
+7.83,275.43,0.82,14.2,Malang,merah,kemarau,Bagus
+5.93,120.78,0.53,8.93,Garut,hijau,hujan,Jelek
+5.94,108.68,0.57,8.74,Garut,hijau,hujan,Jelek
+7.0,268.0,0.86,14.39,Malang,merah,kemarau,Bagus
+6.56,220.64,0.92,14.15,Malang,merah,kemarau,Bagus
+6.07,117.14,0.6,9.15,Garut,hijau,hujan,Jelek
+6.07,178.53,0.72,11.48,Malang,kuning kemerahan,hujan,Sedang
+5.38,108.68,0.51,8.42,Garut,hijau,hujan,Jelek
+6.19,258.85,0.77,12.08,Malang,merah,kemarau,Bagus
+5.74,111.41,0.58,9.75,Garut,hijau,hujan,Jelek
+5.95,142.48,0.7,10.98,Malang,kuning kemerahan,kemarau,Sedang
+6.2,207.97,0.85,13.25,Malang,merah,kemarau,Bagus
+6.67,250.7,0.88,14.64,Malang,merah,kemarau,Bagus
+6.42,126.96,0.67,10.05,Garut,hijau,hujan,Sedang
+6.44,171.74,0.77,11.33,Malang,kuning kemerahan,kemarau,Sedang
+7.29,251.27,0.78,12.79,Malang,merah,kemarau,Bagus
+6.15,148.68,0.67,10.67,Boyolali,kuning kemerahan,hujan,Sedang
+7.08,235.63,0.89,14.15,Malang,merah,kemarau,Bagus
+5.54,124.96,0.55,8.96,Garut,hijau,hujan,Jelek
+6.7,249.03,0.9,14.52,Malang,merah,kemarau,Bagus
+5.91,141.48,0.69,10.82,Malang,kuning kemerahan,kemarau,Sedang
+6.6,183.05,0.89,14.77,Malang,merah,kemarau,Bagus
+7.45,251.27,0.93,14.5,Boyolali,merah,kemarau,Bagus
+6.15,116.59,0.61,10.05,Garut,hijau,hujan,Jelek
+6.58,195.96,0.85,12.98,Boyolali,merah,kemarau,Bagus
+6.5,195.14,0.82,12.87,Malang,merah,kemarau,Bagus
+6.16,144.93,0.73,11.39,Boyolali,kuning kemerahan,kemarau,Sedang
+7.23,283.69,0.92,14.07,Malang,merah,kemarau,Bagus
+6.59,168.04,0.79,10.87,Boyolali,kuning kemerahan,kemarau,Sedang
+5.81,135.53,0.7,12.08,Malang,kuning kemerahan,kemarau,Sedang
+6.66,168.32,0.7,11.45,Malang,kuning kemerahan,kemarau,Sedang
+5.93,120.78,0.54,8.74,Garut,hijau,hujan,Jelek
+6.72,255.43,0.88,14.64,Malang,merah,kemarau,Bagus
+6.34,179.91,0.7,12.01,Malang,kuning kemerahan,kemarau,Sedang
+5.38,108.68,0.54,9.04,Garut,hijau,hujan,Jelek
+7.28,247.97,0.84,13.06,Malang,merah,kemarau,Bagus
+5.97,143.95,0.73,10.3,Boyolali,kuning kemerahan,kemarau,Sedang
+5.63,111.41,0.57,9.51,Garut,hijau,hujan,Jelek
+6.12,141.48,0.7,10.74,Boyolali,kuning kemerahan,hujan,Sedang
+6.54,171.74,0.78,10.99,Malang,kuning kemerahan,hujan,Sedang
+5.43,115.8,0.55,9.15,Garut,hijau,hujan,Jelek
+5.92,116.89,0.53,9.75,Garut,hijau,hujan,Jelek
+7.4,250.7,0.87,13.52,Malang,merah,kemarau,Bagus
+6.09,179.62,0.77,13.25,Boyolali,merah,kemarau,Bagus
+5.74,111.41,0.55,9.25,Garut,hijau,hujan,Jelek
+6.87,222.84,0.85,13.6,Malang,merah,kemarau,Bagus
+7.63,236.43,0.88,13.7,Malang,merah,kemarau,Bagus
+6.15,162.72,0.75,11.09,Malang,kuning kemerahan,hujan,Sedang
+6.38,154.91,0.66,10.74,Malang,kuning kemerahan,hujan,Sedang
+7.02,233.58,0.95,13.43,Boyolali,merah,kemarau,Bagus
+7.07,249.25,0.9,14.47,Malang,merah,kemarau,Bagus
+6.55,248.83,0.83,12.72,Malang,merah,kemarau,Bagus
+6.14,142.17,0.74,11.24,Boyolali,kuning kemerahan,kemarau,Sedang
+6.07,117.14,0.6,9.15,Garut,hijau,hujan,Jelek
+6.06,146.47,0.72,10.74,Boyolali,kuning kemerahan,hujan,Sedang
+5.74,106.33,0.58,9.7,Garut,hijau,hujan,Jelek
+5.96,128.71,0.59,8.79,Garut,hijau,hujan,Jelek
+6.2,168.96,0.71,11.09,Malang,kuning kemerahan,hujan,Sedang
+6.67,120.78,0.66,10.82,Boyolali,hijau,hujan,Sedang
+5.56,121.73,0.55,9.25,Garut,hijau,hujan,Jelek
+6.42,126.96,0.67,10.05,Garut,hijau,hujan,Sedang
+5.91,123.62,0.6,9.39,Garut,hijau,hujan,Jelek
+6.22,171.74,0.73,11.66,Malang,kuning kemerahan,kemarau,Sedang
+7.2,228.69,0.92,13.91,Malang,merah,kemarau,Bagus
+6.59,168.04,0.78,11.02,Boyolali,kuning kemerahan,kemarau,Sedang
+7.41,273.66,0.9,13.9,Malang,merah,kemarau,Bagus
+6.52,192.35,0.84,13.06,Malang,merah,kemarau,Bagus
+5.52,120.78,0.56,9.15,Garut,hijau,hujan,Jelek
+5.99,101.44,0.61,8.68,Garut,hijau,hujan,Jelek
+6.59,195.14,0.82,12.87,Malang,merah,kemarau,Bagus
+5.81,118.89,0.55,9.48,Garut,hijau,hujan,Jelek
+6.12,141.48,0.73,11.23,Boyolali,kuning kemerahan,hujan,Sedang
+7.03,245.92,0.9,14.39,Malang,merah,kemarau,Bagus
+5.97,125.75,0.6,9.22,Garut,hijau,hujan,Jelek
+6.56,220.64,0.9,13.9,Malang,merah,kemarau,Bagus
+7.0,268.0,0.83,14.07,Malang,merah,kemarau,Bagus
+5.88,137.94,0.7,10.33,Boyolali,kuning kemerahan,hujan,Sedang
+6.07,178.53,0.7,11.39,Malang,kuning kemerahan,hujan,Sedang
+7.1,232.88,0.81,12.89,Boyolali,merah,kemarau,Bagus
+7.4,250.7,0.93,14.09,Malang,merah,kemarau,Bagus
+7.24,250.7,0.89,13.43,Malang,kuning kemerahan,kemarau,Bagus
+5.95,143.2,0.7,10.63,Malang,kuning kemerahan,hujan,Sedang
+5.93,124.96,0.62,9.75,Garut,hijau,hujan,Jelek
+6.58,168.04,0.78,11.02,Boyolali,kuning kemerahan,kemarau,Sedang
+5.93,126.96,0.62,9.75,Garut,hijau,hujan,Jelek
+5.74,111.41,0.55,9.25,Garut,hijau,hujan,Jelek
+5.63,143.68,0.66,9.58,Garut,hijau,hujan,Jelek
+6.12,141.48,0.7,10.74,Boyolali,kuning kemerahan,hujan,Sedang
+6.54,161.42,0.77,11.16,Malang,kuning kemerahan,kemarau,Sedang
+5.34,136.19,0.59,9.41,Garut,hijau,hujan,Jelek
+5.99,139.73,0.73,11.05,Boyolali,kuning kemerahan,kemarau,Sedang
+7.51,263.8,0.92,14.67,Malang,merah,kemarau,Bagus
+6.66,168.32,0.72,11.58,Malang,kuning kemerahan,kemarau,Sedang
+7.83,275.43,0.85,14.33,Malang,merah,kemarau,Bagus
+6.19,258.85,0.8,12.08,Malang,merah,kemarau,Bagus
+6.72,254.51,0.89,14.15,Malang,merah,kemarau,Bagus
+7.21,208.48,0.87,13.9,Malang,merah,kemarau,Bagus
+5.56,128.71,0.61,9.45,Garut,hijau,hujan,Jelek
+6.6,263.26,0.8,12.98,Malang,merah,kemarau,Bagus
+6.7,137.66,0.7,10.74,Garut,kuning kemerahan,hujan,Sedang
+6.47,159.2,0.65,11.16,Garut,kuning kemerahan,hujan,Sedang
+6.07,171.21,0.71,11.23,Malang,kuning kemerahan,hujan,Sedang
+6.07,178.53,0.7,11.16,Malang,kuning kemerahan,hujan,Sedang
+5.9,139.73,0.7,10.6,Malang,kuning kemerahan,kemarau,Sedang
+6.79,254.51,0.8,12.55,Boyolali,merah,kemarau,Bagus
+6.5,195.14,0.8,12.79,Malang,merah,kemarau,Bagus
+7.08,235.63,0.9,14.28,Malang,merah,kemarau,Bagus
+6.12,176.54,0.76,12.18,Boyolali,merah,kemarau,Bagus
+7.45,251.27,0.9,14.0,Boyolali,merah,kemarau,Bagus
+6.42,176.54,0.74,11.75,Boyolali,kuning kemerahan,kemarau,Sedang
+7.03,248.49,0.92,14.0,Malang,merah,kemarau,Bagus
+6.44,142.17,0.7,10.74,Malang,kuning kemerahan,hujan,Sedang
+6.38,154.21,0.7,11.16,Malang,kuning kemerahan,hujan,Sedang
+5.94,108.68,0.59,8.79,Garut,hijau,hujan,Jelek
+6.04,115.86,0.6,9.15,Garut,hijau,hujan,Jelek
+6.09,121.73,0.6,9.25,Garut,hijau,hujan,Jelek
+5.92,116.89,0.53,9.45,Garut,hijau,hujan,Jelek
+6.2,166.7,0.7,11.02,Malang,kuning kemerahan,kemarau,Sedang
+6.58,195.96,0.82,12.72,Boyolali,merah,kemarau,Bagus
+6.87,222.84,0.87,13.79,Malang,merah,kemarau,Bagus
+7.02,233.58,0.92,13.12,Boyolali,merah,kemarau,Bagus
+6.54,161.42,0.74,11.09,Malang,kuning kemerahan,hujan,Sedang
+5.74,111.41,0.58,9.75,Garut,hijau,hujan,Jelek
+6.23,171.74,0.74,12.18,Malang,kuning kemerahan,kemarau,Sedang
+6.07,171.21,0.73,11.23,Malang,kuning kemerahan,hujan,Sedang
+5.88,137.94,0.74,10.6,Boyolali,kuning kemerahan,hujan,Sedang
+7.0,222.04,0.83,13.25,Malang,merah,kemarau,Bagus
+7.63,236.43,0.88,13.82,Malang,merah,kemarau,Bagus
+5.5,123.01,0.54,8.68,Garut,hijau,hujan,Jelek
+6.63,161.42,0.75,11.23,Boyolali,kuning kemerahan,hujan,Sedang
+5.95,123.68,0.61,9.7,Garut,hijau,hujan,Jelek
+6.15,162.72,0.74,11.02,Malang,kuning kemerahan,hujan,Sedang
+6.38,154.21,0.7,11.23,Malang,kuning kemerahan,kemarau,Sedang
+5.86,151.72,0.72,10.04,Malang,kuning kemerahan,hujan,Sedang
+5.74,86.27,0.55,9.48,Garut,hijau,hujan,Jelek
+5.99,139.73,0.73,11.05,Boyolali,kuning kemerahan,kemarau,Sedang
+5.71,118.89,0.59,8.79,Garut,hijau,hujan,Jelek
+6.42,126.96,0.67,10.05,Garut,hijau,hujan,Sedang
+6.15,116.59,0.64,10.19,Garut,hijau,hujan,Jelek
+5.81,135.53,0.7,12.01,Malang,kuning kemerahan,kemarau,Sedang
+6.16,144.93,0.7,11.05,Boyolali,kuning kemerahan,hujan,Sedang
+6.47,159.2,0.7,10.63,Garut,kuning kemerahan,hujan,Sedang
+6.06,146.47,0.72,10.88,Boyolali,kuning kemerahan,hujan,Sedang
+7.1,235.15,0.89,14.07,Boyolali,merah,kemarau,Bagus
+5.63,142.17,0.64,10.05,Garut,hijau,hujan,Jelek
+5.96,128.71,0.55,8.68,Garut,hijau,hujan,Jelek
+5.74,111.41,0.55,9.25,Garut,hijau,hujan,Jelek
+6.74,250.78,0.91,14.2,Malang,merah,kemarau,Bagus
+7.45,251.27,0.9,14.0,Boyolali,merah,kemarau,Bagus
+6.6,263.26,0.77,12.72,Malang,merah,kemarau,Bagus
+5.99,101.44,0.53,8.3,Garut,hijau,hujan,Jelek
+6.19,258.85,0.8,12.01,Malang,merah,kemarau,Bagus
+6.34,179.91,0.7,12.08,Malang,kuning kemerahan,kemarau,Sedang
